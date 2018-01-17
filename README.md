@@ -1,5 +1,7 @@
 # SBT 快速入门
 
+> 本开源书 forked from [SBT 快速入门](https://github.com/nmred/sbt-manual)，作者为 [nmred](https://github.com/nmred)，欢迎大家 star 原作者的 [repo](https://github.com/nmred/sbt-manual)，以便获得最新更新，谢谢！
+
 本篇文件是由[Getting Started summary](http://www.scala-sbt.org/0.13/tutorial/index.html)翻译而来。
 
 ### Github
